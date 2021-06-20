@@ -2,7 +2,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     kotlin("jvm")
-    id("tech.open-edgn.botManager.gradlePlugin") version "0.1-beta"
+    id("com.github.universalChatBot.gradlePlugin") version "0.1-beta"
 
 }
 java.sourceCompatibility = JavaVersion.VERSION_11
